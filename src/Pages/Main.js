@@ -43,11 +43,6 @@ const Main = () => {
                                 </span>
                             </button>
                         </Link>
-
-
-                        <a href="https://drive.google.com/u/3/uc?id=114NC8CTkSaxDa7TheaSlDjuRSpzQYhfX&export=download" className='text-dark group border-2 px-6 py-3 my-2 flex items-center ml-2 hover:bg-red-400 hover:border-red-500'>
-                            Resume
-                        </a>
                     </div>
                 </div>
             </div>
